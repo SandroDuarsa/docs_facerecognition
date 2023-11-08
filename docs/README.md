@@ -2,11 +2,20 @@
 ><h2>Bagaimana cara Login Dashboard?</h2> 
 ><h3> ➡️ Pastikan terlebih dahulu bahwa tautan yang akan Anda buka benar. Setelah yakin, masukkan akun pengguna dan kata sandi yang sesuai ke kolom login</h3>
 
+><h2>Apa itu License Code?</h2>
+><h3>➡️ License code adalah kode unik yang digunakan untuk mengaktifkan lisensi perangkat lunak</h3>
+
 ><h2>Bagaimana cara mendapatkan license code?</h2>
 ><h3>➡️ Pastikan Anda berada di workspace absensi. Di bagian App license Anda dapat masuk ke license Tambahkan lisensi baru dengan menekan tombol + add FR License, isi nama klien sesuai keinginan Anda, lalu simpan. Lisensi kode Anda akan terbentuk setelah itu.</h3>
 
 ><h2>Bagaimana cara mengganti nama License?</h2>
 ><h3>➡️ Buka doctype FR License, lalu pilih lisensi yang ingin Anda ubah namanya. Setelah merubahnya, jangan lupa untuk menyimpan perubahan.</h3>
+
+><h2>Apa itu Device ID?</h2>
+><h3>➡️ Device ID adalah sebuah kode pengenal unik setiap perangkat user.</h3>
+
+><h2>Bagaimana Cara Mendapatkan Device ID</h2>
+><h3>➡️ Device ID dapat diperoleh setelah pengguna mendaftar di aplikasi mobile dan memasukkan nama organisasi serta license code.</h3>
 
 ><h2>Bagaimana cara menambahkan Device Id user? </h2>
 ><h3>➡️ Buka doctype FR License, Pilih lisensi yang ingin ditambahkan Device id nya, di tab license temukan bagian Device yang terdapat bagian tabel. Tekan add row di bagian bawah tabel, lalu masukkan device id nya. Jangan lupa untuk menyimpan perubahan setelah selesai.</h3>

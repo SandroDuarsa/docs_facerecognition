@@ -9,7 +9,7 @@
 ><h3>➡️ Pastikan Anda berada di workspace absensi. Di bagian App license Anda dapat masuk ke license Tambahkan lisensi baru dengan menekan tombol + add FR License, isi kolom client name, lalu simpan. Lisensi kode Anda akan terbentuk setelah itu.</h3>
 
 ><h2>Bagaimana cara mengganti nama License?</h2>
-><h3>➡️ Buka doctype FR License, lalu pilih lisensi yang ingin Anda ubah namanya. Setelah merubahnya, jangan lupa untuk menyimpan perubahan.</h3>
+><h3>➡️ Buka doctype FR License, lalu pilih lisensi yang ingin Anda ubah namanya. pada kolom client name anda dapat mengganti nama yang sudah ada dengan yang baru, jangan lupa untuk menyimpan perubahan.</h3>
 
 ><h2>Apa itu Device ID?</h2>
 ><h3>➡️ Device ID adalah sebuah kode pengenal unik setiap perangkat user.</h3>

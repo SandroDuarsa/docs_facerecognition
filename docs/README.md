@@ -1,6 +1,6 @@
 # FAQ
 ><h2>Bagaimana cara Login Dashboard?</h2> 
-><h3> ➡️ Pastikan terlebih dahulu bahwa tautan yang akan Anda buka benar. Setelah yakin, masukkan akun pengguna dan kata sandi yang sesuai ke kolom login</h3>
+><h3> ➡️ Pastikan terlebih dahulu bahwa URL yang akan Anda buka benar. Setelah yakin, masukkan akun pengguna dan kata sandi yang sesuai ke kolom login</h3>
 
 ><h2>Apa itu License Code?</h2>
 ><h3>➡️ License code adalah kode unik yang digunakan untuk mengaktifkan lisensi perangkat lunak</h3>

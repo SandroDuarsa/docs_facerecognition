@@ -65,7 +65,7 @@
 ><h3>➡️ Coba lagi dengan kondisi pencahayaan yang lebih baik hingga berhasil, tetapi pastikan wajah pengguna telah terdaftar sebelumnya.</h3>
 
 ><h2>Kenapa aplikasi tiba-tiba keluar sendiri ketika mencoba membuka fitur tertentu?</h2>
-><h3>➡️ ? Pastikan Anda telah memperbarui aplikasi ke versi terbaru. Jika masalah masih berlanjut, coba restart perangkat Anda</h3>
+><h3>➡️ Pastikan Anda telah memperbarui aplikasi ke versi terbaru. Jika masalah masih berlanjut, coba restart perangkat Anda</h3>
 
 ><h2>Bagaimana cara menyelesaikan masalah koneksi saat tidak bisa absensi?</h2>
 ><h3>➡️ Periksa koneksi internet Anda terlebih dahulu. Jika koneksi internet baik, coba restart aplikasi atau perangkat Anda</h3>

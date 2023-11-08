@@ -3,7 +3,7 @@
 ><h3> ➡️ Pastikan terlebih dahulu bahwa tautan yang akan Anda buka benar. Setelah yakin, masukkan akun pengguna dan kata sandi yang sesuai ke kolom login</h3>
 
 ><h2>Bagaimana cara mendapatkan license code?</h2>
-><h3>➡️ Pastikan Anda berada di workspace absensi. Di bagian App license Anda dapat masuk ke license Tambahkan lisensi baru dengan menekan tombil + add FR License, isi nama klien sesuai keinginan Anda, lalu simpan. Lisensi kode Anda akan terbentuk setelah itu.</h3>
+><h3>➡️ Pastikan Anda berada di workspace absensi. Di bagian App license Anda dapat masuk ke license Tambahkan lisensi baru dengan menekan tombol + add FR License, isi nama klien sesuai keinginan Anda, lalu simpan. Lisensi kode Anda akan terbentuk setelah itu.</h3>
 
 ><h2>Bagaimana cara mengganti nama License?</h2>
 ><h3>➡️ Buka doctype FR License, lalu pilih lisensi yang ingin Anda ubah namanya. Setelah merubahnya, jangan lupa untuk menyimpan perubahan.</h3>

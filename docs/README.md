@@ -17,7 +17,7 @@
 ><h2>Bagaimana Cara Mendapatkan Device ID</h2>
 ><h3>➡️ Device ID dapat diperoleh setelah pengguna mendaftar di aplikasi mobile dan memasukkan nama organisasi serta license code.</h3>
 
-><h2>Bagaimana cara menambahkan Device Id user? </h2>
+><h2>Bagaimana cara mendaftarkan Device Id user di dashboard? </h2>
 ><h3>➡️ Buka doctype FR License, Pilih lisensi yang ingin ditambahkan Device id nya, di tab license temukan bagian Device yang terdapat bagian tabel. Tekan add row di bagian bawah tabel, lalu masukkan device id nya. Jangan lupa untuk menyimpan perubahan setelah selesai.</h3>
 
 ><h2>Bagaimana cara mengganti warna tombol di apps? </h2>

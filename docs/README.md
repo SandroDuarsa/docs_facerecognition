@@ -70,21 +70,31 @@
 
 #
 
-# <h1>DOKUMENTASI ADMIN</h1>
+# <h1>PERSONAL ATTENDANCE</h1>
 
-> ## <h4>Bagaimana cara Registrasi Device, Check Data Absen, dan Check Data Absen Error </h4>
+## <h3>DOKUMENTASI ADMIN</h3>
+
+> ### <h4>Bagaimana cara Registrasi Device, Check Data Absen, dan Check Data Absen Error </h4>
 > <iframe src="https://drive.google.com/file/d/1AQVaGL4T-fgLYJ8c4VoGNPjDn-AMVJtC/preview" width="640" height="480" allow="autoplay"></iframe>
 
-> ## <h4>Cara Menambahkan Data Pegawai untuk Pendaftaran Wajah</h4>
+> ### <h4>Cara Menambahkan Data Pegawai untuk Pendaftaran Wajah</h4>
 > <iframe src="https://drive.google.com/file/d/1qtD6x6b4Rd-EdOIsto-g9LzcDEbUFi01/preview" width="640" height="480" allow="autoplay"></iframe>
 
-> ## <h4>Konfigurasi Absensi dengan radius map yang telah ditentukan</h4>
+> ### <h4>Konfigurasi Absensi dengan radius map yang telah ditentukan</h4>
 > <iframe src="https://drive.google.com/file/d/1hpeNFuexSbn_smCLw3nu5svdiwdsgIim/preview" width="640" height="480" allow="autoplay"></iframe>
 
 
 # 
 
-# <h1>DOKUMENTASI USER</h1>
+## <h3>DOKUMENTASI USER</h3>
 
-> ## <h4>Bagaimana cara user Registrasi Aplikasi, Registrasi Wajah dan Absensi?</h4>
+> ### <h4>Bagaimana cara user Registrasi Aplikasi, Registrasi Wajah dan Absensi?</h4>
 > <iframe src="https://drive.google.com/file/d/1rVxZ5X-hFLuEKZAhPwg_l3L0dK9yUPe8/preview" width="640" height="480" allow="autoplay"></iframe>
+
+#
+
+# <h1>PUBLIC ATTENDANCE</h1>
+
+## <h3>DOKUMENTASI ADMIN</h3>
+
+## <h3>DOKUMENTASI USER</h3>

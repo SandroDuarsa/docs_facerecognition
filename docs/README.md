@@ -86,5 +86,5 @@
 
 # <h1>DOKUMENTASI USER</h1>
 
-> ## <h4>Bagaimana cara user Registrasi Wajah dan Absensi?</h4>
+> ## <h4>Bagaimana cara user Registrasi Aplikasi, Registrasi Wajah dan Absensi?</h4>
 > <iframe src="https://drive.google.com/file/d/1rVxZ5X-hFLuEKZAhPwg_l3L0dK9yUPe8/preview" width="640" height="480" allow="autoplay"></iframe>

@@ -50,23 +50,29 @@
 
 # <h1>TROUBLESHOOT</h1>
 
-><h2>Apa yang terjadi apabila nama user tidak ada dipencarian sewaktu hendak register wajah?  </h2>
-><h3>➡️ Admin bisa check data pegawai di Employee data, jika tidak ada maka admin bisa menambahkan employee yang belum terdaftar, namun jika data ternyata sudah ada maka bisa dipastikan lagi di mobile apps apakah sudah memasukan nama dengan benar, lalu user bisa check jaringan apakah sudah tersambung dengan internet </h3>
+> ## <h3>Apa yang terjadi apabila nama user tidak ada dipencarian sewaktu hendak register wajah?  </h3>
+> <h4>➡️ Admin bisa check data pegawai di Employee data, jika tidak ada maka admin bisa menambahkan employee yang belum terdaftar, namun jika data ternyata sudah ada maka bisa dipastikan lagi di mobile apps apakah sudah memasukan nama dengan benar, lalu user bisa check jaringan apakah sudah tersambung dengan internet </h4>
 
-><h2>Apa yang harus dilakukan Jika user stuck saat masuk home Ketika aplikasi akan dijalankan?</h2>
-><h3>➡️ Langkah pertama adalah memeriksa koneksi internet. Jika terhubung, tutup aplikasi dan jalankan kembali.</h3>
+> ## <h3>Apa yang harus dilakukan Jika user stuck saat masuk home Ketika aplikasi akan dijalankan?</h3>
+><h4>➡️ Langkah pertama adalah memeriksa koneksi internet. Jika terhubung, tutup aplikasi dan jalankan kembali.</h4>
 
-><h2>Apa yang harus dilakukan jika ketika  absen lalu loading terjadi begitu lama?</h2>
-><h3>➡️ Langkah pertama adalah memeriksa koneksi internet. Jika sudah terhubung internernet dengan baik, tutup aplikasi dan jalankan kembali.</h3>
+> ## <h3>Apa yang harus dilakukan jika ketika  absen lalu loading terjadi begitu lama?</h3>
+><h4>➡️ Langkah pertama adalah memeriksa koneksi internet. Jika sudah terhubung internernet dengan baik, tutup aplikasi dan jalankan kembali.</h4>
 
-><h2>Apa yang harus dilakukan jika user gagal absen? </h2>
-><h3>➡️ Coba lagi dengan kondisi pencahayaan yang lebih baik hingga berhasil, tetapi pastikan wajah pengguna telah terdaftar sebelumnya.</h3>
+> ## <h3>Apa yang harus dilakukan jika user gagal absen? </h3>
+><h4>➡️ Coba lagi dengan kondisi pencahayaan yang lebih baik hingga berhasil, tetapi pastikan wajah pengguna telah terdaftar sebelumnya.</h4>
 
-><h2>Kenapa aplikasi tiba-tiba keluar sendiri ketika mencoba membuka fitur tertentu?</h2>
-><h3>➡️ Pastikan Anda telah memperbarui aplikasi ke versi terbaru. Jika masalah masih berlanjut, coba restart perangkat Anda</h3>
+> ## <h3>Kenapa aplikasi tiba-tiba keluar sendiri ketika mencoba membuka fitur tertentu?</h3>
+><h4>➡️ Pastikan Anda telah memperbarui aplikasi ke versi terbaru. Jika masalah masih berlanjut, coba restart perangkat Anda</h4>
 
-><h2>Bagaimana cara menyelesaikan masalah koneksi saat tidak bisa absensi?</h2>
-><h3>➡️ Periksa koneksi internet Anda terlebih dahulu. Jika koneksi internet baik, coba restart aplikasi atau perangkat Anda</h3>
+> ## <h3>Bagaimana cara menyelesaikan masalah koneksi saat tidak bisa absensi?</h3>
+><h4>➡️ Periksa koneksi internet Anda terlebih dahulu. Jika koneksi internet baik, coba restart aplikasi atau perangkat Anda</h4>
+
+> ## <h3>Apa yang terjadi jika tombol Register di aplikasi tidak Muncul?</h3>
+><h4>➡️ Periksa apakah user sudah pernah mendaftarkan wajahnya. Jika sudah pernah mendaftar maka tombol register akan hilang.Jika belum pernah mendaftar wajah maka langkah yang dilakukan adalah : 1. Uninstall Aplikasi yang sudah terdaftar. 2. Install aplikasi terbaru dan daftar seperti biasa.
+Perlu diingat admin harus mengapus device id user yang lama.
+</h4>
+
 
 # <h1>ALUR APLIKASI</h1>
 ><iframe src="https://drive.google.com/file/d/110tGbvef5wg03bRqRweWZei6aDMG9LAN/preview" width="640" height="480" allow="autoplay"></iframe>

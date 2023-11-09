@@ -42,6 +42,9 @@
 ><h2>Bagaimana cara user absen? </h2>
 ><h3>➡️ Di halaman utama aplikasi seluler, pengguna dapat menekan tombol "Absen", yang kemudian akan mengarahkan mereka ke halaman absensi. Di sana, pengguna dapat melakukan absensi dengan cara mengambil foto wajah dan menunggu verifikasi foto wajah.</h3>
 
+><h2>Apa yang terjadi jika ketika user absen muncul keterangan "Diluar radius Check In" ? </h2>
+><h3>➡️ Jika terbaca "Diluar radius Check In", itu berarti pengguna sedang di luar lokasi Check In. Jika pesan ini muncul saat pengguna berada di lokasi Check In, pengguna dapat menutup aplikasi, masuk kembali, dan mencoba absen lagi.</h3>
+
 ><h2>Bagaimana cara mengganti wajah user yang telah terdaftar? </h2>
 ><h3>➡️ Pastikan anda berada di workspace absensi, di bagian Master Data employee klik Data Wajah, Pilih data pengguna yang ingin diganti data wajahnya, lalu klik tombol hapus wajah di pojok kanan atas. Simpan perubahan, dan di aplikasi seluler, daftarkan kembali data wajah yang telah dihapus.</h3>
 
@@ -67,16 +70,21 @@
 
 #
 
-# <h1>DOKUMENTASI PENGGUNAAN</h1>
+# <h1>DOKUMENTASI ADMIN</h1>
 
-> ## <h4>Bagaimana cara register device,register wajah, absen dan menambahkan pegawai? </h4>
-> <iframe src="https://drive.google.com/file/d/1VMc7mSkCGIeFo7pD1XJrwsBdVlSSiR8e/preview" width="640" height="480" allow="autoplay"></iframe>
+> ## <h4>Bagaimana cara Registrasi Device, Check Data Absen, dan Check Data Absen Error </h4>
+> <iframe src="https://drive.google.com/file/d/1AQVaGL4T-fgLYJ8c4VoGNPjDn-AMVJtC/preview" width="640" height="480" allow="autoplay"></iframe>
 
-> ## <h4>Bagaimana cara user register wajah?</h4>
-> <iframe src="https://drive.google.com/file/d/1rVxZ5X-hFLuEKZAhPwg_l3L0dK9yUPe8/preview" width="640" height="480" allow="autoplay"></iframe>
+> ## <h4>Cara Menambahkan Data Pegawai untuk Pendaftaran Wajah</h4>
+> <iframe src="https://drive.google.com/file/d/1qtD6x6b4Rd-EdOIsto-g9LzcDEbUFi01/preview" width="640" height="480" allow="autoplay"></iframe>
 
 > ## <h4>Konfigurasi Absensi dengan radius map yang telah ditentukan</h4>
 > <iframe src="https://drive.google.com/file/d/1hpeNFuexSbn_smCLw3nu5svdiwdsgIim/preview" width="640" height="480" allow="autoplay"></iframe>
 
-> ## <h4>Cara Menambahkan Data Pegawai untuk Pendaftaran Wajah</h4>
-> <iframe src="https://drive.google.com/file/d/1qtD6x6b4Rd-EdOIsto-g9LzcDEbUFi01/preview" width="640" height="480" allow="autoplay"></iframe>
+
+# 
+
+# <h1>DOKUMENTASI USER</h1>
+
+> ## <h4>Bagaimana cara user Registrasi Wajah dan Absensi?</h4>
+> <iframe src="https://drive.google.com/file/d/1rVxZ5X-hFLuEKZAhPwg_l3L0dK9yUPe8/preview" width="640" height="480" allow="autoplay"></iframe>

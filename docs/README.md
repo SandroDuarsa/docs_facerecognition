@@ -48,7 +48,7 @@
 ><h2>Bagaimana cara mengganti wajah user yang telah terdaftar? </h2>
 ><h3>➡️ Pastikan anda berada di workspace absensi, di bagian Master Data employee klik Data Wajah, Pilih data pengguna yang ingin diganti data wajahnya, lalu klik tombol hapus wajah di pojok kanan atas. Simpan perubahan, dan di aplikasi seluler, daftarkan kembali data wajah yang telah dihapus.</h3>
 
-# <h1>Troubleshoot</h1>
+# <h1>TROUBLESHOOT</h1>
 
 ><h2>Apa yang terjadi apabila nama user tidak ada dipencarian sewaktu hendak register wajah?  </h2>
 ><h3>➡️ Admin bisa check data pegawai di Employee data, jika tidak ada maka admin bisa menambahkan employee yang belum terdaftar, namun jika data ternyata sudah ada maka bisa dipastikan lagi di mobile apps apakah sudah memasukan nama dengan benar, lalu user bisa check jaringan apakah sudah tersambung dengan internet </h3>
@@ -99,5 +99,11 @@
 # <h1>PUBLIC ATTENDANCE</h1>
 
 ## <h3>DOKUMENTASI ADMIN</h3>
+> ### <h4>Bagaimana Cara Mendaftarkan Wajah?</h4>
+> <iframe src="https://drive.google.com/file/d/1hi5craOFiMPdOoO2snzv0HrOe1P430kl/preview" width="640" height="480" allow="autoplay"></iframe>
+
 
 ## <h3>DOKUMENTASI USER</h3>
+
+> ### <h4>Bagaimana Cara User Absen?</h4>
+> <iframe src="https://drive.google.com/file/d/1CnlST3J9AxnNQ_gYqUKSVvNLftptcGWk/preview" width="640" height="480" allow="autoplay"></iframe>

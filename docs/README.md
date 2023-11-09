@@ -68,6 +68,9 @@
 ><h2>Bagaimana cara menyelesaikan masalah koneksi saat tidak bisa absensi?</h2>
 ><h3>➡️ Periksa koneksi internet Anda terlebih dahulu. Jika koneksi internet baik, coba restart aplikasi atau perangkat Anda</h3>
 
+# <h1>ALUR APLIKASI</h1>
+><iframe src="https://drive.google.com/file/d/110tGbvef5wg03bRqRweWZei6aDMG9LAN/preview" width="640" height="480" allow="autoplay"></iframe>
+
 #
 
 # <h1>PERSONAL ATTENDANCE</h1>

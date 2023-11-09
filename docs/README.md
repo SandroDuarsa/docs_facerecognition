@@ -1,4 +1,4 @@
-# FAQ
+# <h1>FAQ</h1>
 ><h2>Bagaimana cara Login Dashboard?</h2> 
 ><h3> ➡️ Pastikan terlebih dahulu bahwa URL yang akan Anda buka benar. Setelah yakin, masukkan username dan kata sandi yang sesuai ke kolom login</h3>
 
@@ -38,11 +38,6 @@
 ><h2>Bagaimana cara check user yang telah absen?</h2>
 ><h3>➡️ Pastikan anda berada di workspace absensi, di bagian Log Data Absensi, klik Log absen, lalu anda akan diarahkan ke lisr data wajah yang telah absen</h3>
 
-><h2>Bagaimana cara register device,regsiter wajah, absen dan menambahkan pegawai? </h2>
-><iframe src="https://drive.google.com/file/d/1VMc7mSkCGIeFo7pD1XJrwsBdVlSSiR8e/preview" width="640" height="480" allow="autoplay"></iframe>
-
-><h2>Bagaimana cara user register wajah? </h2>
-><iframe src="https://drive.google.com/file/d/1rVxZ5X-hFLuEKZAhPwg_l3L0dK9yUPe8/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ><h2>Bagaimana cara user absen? </h2>
 ><h3>➡️ Di halaman utama aplikasi seluler, pengguna dapat menekan tombol "Absen", yang kemudian akan mengarahkan mereka ke halaman absensi. Di sana, pengguna dapat melakukan absensi dengan cara mengambil foto wajah dan menunggu verifikasi foto wajah.</h3>
@@ -50,7 +45,7 @@
 ><h2>Bagaimana cara mengganti wajah user yang telah terdaftar? </h2>
 ><h3>➡️ Pastikan anda berada di workspace absensi, di bagian Master Data employee klik Data Wajah, Pilih data pengguna yang ingin diganti data wajahnya, lalu klik tombol hapus wajah di pojok kanan atas. Simpan perubahan, dan di aplikasi seluler, daftarkan kembali data wajah yang telah dihapus.</h3>
 
-# Troubleshoot
+# <h1>Troubleshoot</h1>
 
 ><h2>Apa yang terjadi apabila nama user tidak ada dipencarian sewaktu hendak register wajah?  </h2>
 ><h3>➡️ Admin bisa check data pegawai di Employee data, jika tidak ada maka admin bisa menambahkan employee yang belum terdaftar, namun jika data ternyata sudah ada maka bisa dipastikan lagi di mobile apps apakah sudah memasukan nama dengan benar, lalu user bisa check jaringan apakah sudah tersambung dengan internet </h3>
@@ -69,3 +64,19 @@
 
 ><h2>Bagaimana cara menyelesaikan masalah koneksi saat tidak bisa absensi?</h2>
 ><h3>➡️ Periksa koneksi internet Anda terlebih dahulu. Jika koneksi internet baik, coba restart aplikasi atau perangkat Anda</h3>
+
+#
+
+# <h1>DOKUMENTASI PENGGUNAAN</h1>
+
+> ## <h4>Bagaimana cara register device,register wajah, absen dan menambahkan pegawai? </h4>
+> <iframe src="https://drive.google.com/file/d/1VMc7mSkCGIeFo7pD1XJrwsBdVlSSiR8e/preview" width="640" height="480" allow="autoplay"></iframe>
+
+> ## <h4>Bagaimana cara user register wajah?</h4>
+> <iframe src="https://drive.google.com/file/d/1rVxZ5X-hFLuEKZAhPwg_l3L0dK9yUPe8/preview" width="640" height="480" allow="autoplay"></iframe>
+
+> ## <h4>Konfigurasi Absensi dengan radius map yang telah ditentukan</h4>
+> <iframe src="https://drive.google.com/file/d/1hpeNFuexSbn_smCLw3nu5svdiwdsgIim/preview" width="640" height="480" allow="autoplay"></iframe>
+
+> ## <h4>Cara Menambahkan Data Pegawai untuk Pendaftaran Wajah</h4>
+> <iframe src="https://drive.google.com/file/d/1qtD6x6b4Rd-EdOIsto-g9LzcDEbUFi01/preview" width="640" height="480" allow="autoplay"></iframe>

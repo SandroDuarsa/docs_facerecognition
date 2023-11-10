@@ -3,13 +3,13 @@
 ><h3> ➡️ Pastikan terlebih dahulu bahwa URL yang akan Anda buka benar. Setelah yakin, masukkan username dan kata sandi yang sesuai ke kolom login</h3>
 
 ><h2>Apa itu License Code?</h2>
-><h3>➡️ License code adalah kode unik yang digunakan untuk mengaktifkan lisensi perangkat lunak</h3>
+><h3>➡️ License code adalah kode unik yang digunakan untuk mengaktifkan license perangkat lunak</h3>
 
 ><h2>Bagaimana cara mendapatkan license code?</h2>
-><h3>➡️ Pastikan Anda berada di workspace absensi. Di bagian App license Anda dapat masuk ke license Tambahkan lisensi baru dengan menekan tombol + add FR License, isi kolom client name, lalu simpan. Lisensi kode Anda akan terbentuk setelah itu.</h3>
+><h3>➡️ Pastikan anda berada di ruang kerja Absensi, pada bagian App license klik License untuk ke menu License. Tambahkan license baru dengan menekan tombol + add FR License, isi kolom client name, lalu simpan. license kode Anda akan terbentuk setelah itu.</h3>
 
 ><h2>Bagaimana cara mengganti nama License?</h2>
-><h3>➡️ Buka doctype FR License, lalu pilih lisensi yang ingin Anda ubah namanya. pada kolom client name anda dapat mengganti nama yang sudah ada dengan yang baru, jangan lupa untuk menyimpan perubahan.</h3>
+><h3>➡️ Pastikan anda berada di ruang kerja Absensi, pada bagian App license klik License untuk ke menu License, lalu pilih license yang ingin Anda ubah namanya. pada kolom client name anda dapat mengganti nama yang sudah ada dengan yang baru, jangan lupa untuk menyimpan perubahan.</h3>
 
 ><h2>Apa itu Device ID?</h2>
 ><h3>➡️ Device ID adalah sebuah kode pengenal unik setiap perangkat user.</h3>
@@ -18,35 +18,35 @@
 ><h3>➡️ Device ID dapat diperoleh setelah pengguna mendaftar di aplikasi mobile dan memasukkan nama organisasi serta license code.</h3>
 
 ><h2>Bagaimana cara mendaftarkan Device Id user di dashboard? </h2>
-><h3>➡️ Buka doctype FR License, Pilih lisensi yang ingin ditambahkan Device id nya, di tab license temukan bagian Device yang terdapat bagian tabel. Tekan add row di bagian bawah tabel, lalu masukkan device id nya. Jangan lupa untuk menyimpan perubahan setelah selesai.</h3>
+><h3>➡️ Pastikan anda berada di ruang kerja Absensi, pada bagian App license klik License untuk ke menu License, Pilih license yang ingin ditambahkan Device id nya, di tab license temukan kolom Device yang terdapat bagian tabel. Tekan add row di bagian bawah tabel, lalu masukkan device id. Jangan lupa untuk menyimpan perubahan setelah selesai.</h3>
 
 ><h2>Bagaimana cara mengganti warna tombol di apps? </h2>
-><h3>➡️ Buka doctype FR License, lalu pilih lisensi yang ingin diganti warna tombol appnya. Masuk ke tab app theme, lalu rubah ke warna yang di ingin kan, jangan lupa untuk menyimpan perubahan</h3>
+><h3>➡️ Pastikan anda berada di ruang kerja Absensi, pada bagian App license klik License untuk ke menu License, lalu pilih license yang ingin diganti warna tombolnya. Masuk ke tab app theme, lalu rubah ke warna yang di ingin kan, jangan lupa untuk menyimpan perubahan</h3>
 
 ><h2>Bagaimana cara mengganti logo di apps?</h2>
-><h3>➡️ Buka doctype FR License, lalu pilih lisensi yang ingin diganti Logo nya, masuk ke tab app theme, pada bagian kolom logo, tekan clear untuk menghapus logo yang lama, tekan attach dan masukan logo baru</h3>
+><h3>➡️ Pastikan anda berada di ruang kerja Absensi, pada bagian App license klik License untuk ke menu License, lalu pilih license yang ingin diganti Logo nya, masuk ke tab app theme, pada bagian kolom logo, tekan clear untuk menghapus logo yang lama, tekan attach dan masukan logo baru</h3>
 
 ><h2>Bagaimana cara mengganti wallpaper di apps?</h2>
-><h3>➡️ Buka doctype FR License, lalu pilih lisensi yang ingin diganti wallpapernya nya, masuk ke tab app theme, pada bagian kolom Background Image, tekan clear untuk menghapus wallpaper yang lama, tekan attach dan masukan wallpaper baru</h3>
+><h3>➡️ Pastikan anda berada di ruang kerja Absensi, pada bagian App license klik License untuk ke menu License, lalu pilih license yang ingin diganti wallpapernya nya, masuk ke tab app theme, pada bagian kolom Background Image, tekan clear untuk menghapus wallpaper yang lama, tekan attach dan masukan wallpaper baru</h3>
 
 ><h2>Bagaimana cara menambah data pegawai?</h2>
-><h3>➡️ Pastikan anda berada di workspace absensi, Di bagian Master Data Employee, klik Employee data, Untuk menambah data karyawan, klik tombol + Add Employee dan isi data pegawai, Jangan lupa untuk menyimpan data yang telah diisi setelah selesai.</h3>
+><h3>➡️ Pastikan anda berada di ruang kerja absensi, Di bagian Master Data Employee, klik Employee data, Untuk menambah data karyawan, klik tombol + Add Employee dan isi data pegawai, Jangan lupa untuk menyimpan data yang telah diisi setelah selesai.</h3>
 
-><h2>Bagaimana cara Check user yang telah didaftarkan wajahnya?</h2>
-><h3>➡️ Pastikan anda berada di workspace absensi, di bagian Master Data Employee, klik Data Wajah, lalu anda akan diarahkan ke list data wajah yang telah didaftarkan</h3>
+><h2>Bagaimana cara cek user yang telah didaftarkan wajahnya?</h2>
+><h3>➡️ Pastikan anda berada di ruang kerja absensi, di bagian Master Data Employee, klik Data Wajah, lalu anda akan diarahkan ke menu Person yang berisikan data wajah yang telah didaftarkan</h3>
 
 ><h2>Bagaimana cara check user yang telah absen?</h2>
-><h3>➡️ Pastikan anda berada di workspace absensi, di bagian Log Data Absensi, klik Log absen, lalu anda akan diarahkan ke lisr data wajah yang telah absen</h3>
+><h3>➡️ Pastikan anda berada di ruang kerja absensi, di bagian Log Data Absensi, klik Log absen, lalu anda akan diarahkan ke menu FR Log yang berisikan data user yang telah absen</h3>
 
 
 ><h2>Bagaimana cara user absen? </h2>
-><h3>➡️ Di halaman utama aplikasi seluler, pengguna dapat menekan tombol "Absen", yang kemudian akan mengarahkan mereka ke halaman absensi. Di sana, pengguna dapat melakukan absensi dengan cara mengambil foto wajah dan menunggu verifikasi foto wajah.</h3>
+><h3>➡️ Di halaman utama aplikasi seluler, pengguna dapat menekan tombol "Absen", yang kemudian akan mengarahkan ke halaman absensi. Di sana, pengguna dapat melakukan absensi dengan cara mengambil foto wajah dan menunggu verifikasi foto wajah.</h3>
 
 ><h2>Apa yang terjadi jika ketika user absen muncul keterangan "Diluar radius Check In" ? </h2>
 ><h3>➡️ Jika terbaca "Diluar radius Check In", itu berarti pengguna sedang di luar lokasi Check In. Jika pesan ini muncul saat pengguna berada di lokasi Check In, pengguna dapat menutup aplikasi, masuk kembali, dan mencoba absen lagi.</h3>
 
 ><h2>Bagaimana cara mengganti wajah user yang telah terdaftar? </h2>
-><h3>➡️ Pastikan anda berada di workspace absensi, di bagian Master Data employee klik Data Wajah, Pilih data pengguna yang ingin diganti data wajahnya, lalu klik tombol hapus wajah di pojok kanan atas. Simpan perubahan, dan di aplikasi seluler, daftarkan kembali data wajah yang telah dihapus.</h3>
+><h3>➡️ Pastikan anda berada di ruang kerja absensi, di bagian Master Data employee klik Data Wajah, Pilih data pengguna yang ingin diganti data wajahnya, lalu klik tombol hapus wajah di pojok kanan atas. Simpan perubahan, dan di aplikasi seluler, daftarkan kembali data wajah yang telah dihapus.</h3>
 
 # <h1>TROUBLESHOOT</h1>
 
@@ -69,17 +69,19 @@
 ><h4>➡️ Periksa koneksi internet Anda terlebih dahulu. Jika koneksi internet baik, coba restart aplikasi atau perangkat Anda</h4>
 
 > ## <h3>Apa yang terjadi jika tombol Register di aplikasi tidak Muncul?</h3>
-><h4>➡️ Periksa apakah user sudah pernah mendaftarkan wajahnya. Jika sudah pernah mendaftar maka tombol register akan hilang.Jika belum pernah mendaftar wajah maka langkah yang dilakukan adalah : 1. Uninstall Aplikasi yang sudah terdaftar. 2. Install aplikasi terbaru dan daftar seperti biasa.
-Perlu diingat admin harus mengapus device id user yang lama.
-</h4>
+><h4>➡️ Periksa apakah user sudah pernah mendaftarkan wajahnya. Jika sudah pernah mendaftar maka tombol register akan hilang.Jika belum pernah mendaftar wajah maka langkah yang dilakukan adalah : </h4>
+> <h4>1. Uninstall Aplikasi yang sudah terdaftar.</h4> 
+> <h4>2. Install aplikasi terbaru </h4>
+> <h4>3. Daftarkan ulang device nya </h4>
+> <b><i><h4>Perlu diingat admin harus mengapus device id user yang lama.</h4></i></b>
 
-
-# <h1>ALUR APLIKASI</h1>
-><iframe src="https://drive.google.com/file/d/110tGbvef5wg03bRqRweWZei6aDMG9LAN/preview" width="640" height="480" allow="autoplay"></iframe>
 
 #
 
-# <h1>PERSONAL ATTENDANCE</h1>
+# <h1>ABSENSI PERSONAL</h1>
+
+## <h3>ALUR ABSENSI PERSONAL</h3>
+><iframe src="https://drive.google.com/file/d/1Z6IUqtDfEtFx54uPeiJQt5jqUY3Et5ue/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ## <h3>DOKUMENTASI ADMIN</h3>
 
@@ -102,7 +104,10 @@ Perlu diingat admin harus mengapus device id user yang lama.
 
 #
 
-# <h1>PUBLIC ATTENDANCE</h1>
+# <h1>ABSENSI PUBLIK</h1>
+
+## <h3>ALUR ABSENSI PUBLIK</h3>
+><iframe src="https://drive.google.com/file/d/19bffbusXu1WdE7mzV4Anjw1qIwRtdUpL/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ## <h3>DOKUMENTASI ADMIN</h3>
 > ### <h4>Bagaimana Cara Mendaftarkan Wajah?</h4>

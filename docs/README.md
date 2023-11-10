@@ -53,10 +53,10 @@
 > ## <h3>Apa yang terjadi apabila nama user tidak ada dipencarian sewaktu hendak register wajah?  </h3>
 > <h4>➡️ Admin bisa check data pegawai di Employee data, jika tidak ada maka admin bisa menambahkan employee yang belum terdaftar, namun jika data ternyata sudah ada maka bisa dipastikan lagi di mobile apps apakah sudah memasukan nama dengan benar, lalu user bisa check jaringan apakah sudah tersambung dengan internet </h4>
 
-> ## <h3>Apa yang harus dilakukan Jika user stuck saat masuk home Ketika aplikasi akan dijalankan?</h3>
+> ## <h3>Apa yang harus dilakukan Jika user terjebak saat masuk home Ketika aplikasi akan dijalankan?</h3>
 ><h4>➡️ Langkah pertama adalah memeriksa koneksi internet. Jika terhubung, tutup aplikasi dan jalankan kembali.</h4>
 
-> ## <h3>Apa yang harus dilakukan jika ketika  absen lalu loading terjadi begitu lama?</h3>
+> ## <h3>Apa yang harus dilakukan jika ketika absen lalu loading terjadi begitu lama?</h3>
 ><h4>➡️ Langkah pertama adalah memeriksa koneksi internet. Jika sudah terhubung internernet dengan baik, tutup aplikasi dan jalankan kembali.</h4>
 
 > ## <h3>Apa yang harus dilakukan jika user gagal absen? </h3>

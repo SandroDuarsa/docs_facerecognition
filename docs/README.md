@@ -3,7 +3,7 @@
 ><h3> ➡️ Pastikan terlebih dahulu bahwa URL yang akan Anda buka benar. Setelah yakin, masukkan username dan kata sandi yang sesuai ke kolom login</h3>
 
 ><h2>Apa itu License Code?</h2>
-><h3>➡️ License code adalah kode unik yang digunakan untuk mengaktifkan license perangkat lunak</h3>
+><h3>➡️ License code adalah kode unik yang digunakan untuk mengaktifkan aplikasi di perangkat pengguna</h3>
 
 ><h2>Bagaimana cara mendapatkan license code?</h2>
 ><h3>➡️ Pastikan anda berada di ruang kerja Absensi, pada bagian App license klik License untuk ke menu License. Tambahkan license baru dengan menekan tombol + add FR License, isi kolom client name, lalu simpan. license kode Anda akan terbentuk setelah itu.</h3>
@@ -53,7 +53,7 @@
 > ## <h3>Apa yang terjadi apabila nama user tidak ada dipencarian sewaktu hendak register wajah?  </h3>
 > <h4>➡️ Admin bisa check data pegawai di Employee data, jika tidak ada maka admin bisa menambahkan employee yang belum terdaftar, namun jika data ternyata sudah ada maka bisa dipastikan lagi di mobile apps apakah sudah memasukan nama dengan benar, lalu user bisa check jaringan apakah sudah tersambung dengan internet </h4>
 
-> ## <h3>Apa yang harus dilakukan Jika user terjebak saat masuk home Ketika aplikasi akan dijalankan?</h3>
+> ## <h3>Jika pengguna mengalami masalah terjebak loading saat mencoba menjalankan aplikasi, apa yang perlu dilakukan?</h3>
 ><h4>➡️ Langkah pertama adalah memeriksa koneksi internet. Jika terhubung, tutup aplikasi dan jalankan kembali.</h4>
 
 > ## <h3>Apa yang harus dilakukan jika ketika absen lalu loading terjadi begitu lama?</h3>
@@ -85,6 +85,21 @@
 
 ## <h3>DOKUMENTASI ADMIN</h3>
 
+> ### <h4>Cara Konfigurasi Lisensi Personal</h4>
+> <h5>1. Masuk ruang kerja Absensi, Pada bagian App License klik License untuk ke menu License, lalu pilih license yang ingin dikonfigurasi</h5>
+> <h5>2. Pada Menu License, silahkan klik tab App Config.</h5>
+> <h5>3. Pilih "Personal Attendance" pada kolom App Mode</h5>
+> <h5>4. Aktifkan Allow Register dan Allow Check </h5>
+> <h5>5. Non Aktifkan Dev Mode dan isi Network interval dengan 20</h5>
+> <h5>6. Isi Screen Distance dengan 60 kemudian isi Check In Timer dengan 1</h5>
+> <h5>7. Isi URL Link, Person Data Source URL, Custom Face Recognition URL, Custom Face Register URL dengan link yang disediakan oleh developer</h5>
+> <h5>8. Aktifkan Check in With Maps, Isi Map Radius dengan 1, kemudian pilih lokasi absen dengan 📍pinpoint pada peta</h5>
+> <h5>9. Jika telah mengisi semua dengan benar maka simpan</h5>
+
+
+
+
+
 > ### <h4>Bagaimana cara Registrasi Device, Check Data Absen, dan Check Data Absen Error </h4>
 > <iframe src="https://drive.google.com/file/d/1AQVaGL4T-fgLYJ8c4VoGNPjDn-AMVJtC/preview" width="640" height="480" allow="autoplay"></iframe>
 
@@ -110,6 +125,18 @@
 ><iframe src="https://drive.google.com/file/d/19bffbusXu1WdE7mzV4Anjw1qIwRtdUpL/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ## <h3>DOKUMENTASI ADMIN</h3>
+
+> ### <h4>Cara Konfigurasi Lisensi Publik</h4>
+> <h5>1. Masuk ruang kerja Absensi, Pada bagian App License klik License untuk ke menu License, lalu pilih license yang ingin dikonfigurasi</h5>
+> <h5>2. Pada Menu License, silahkan klik tab App Config.</h5>
+> <h5>3. Pilih "Public Check In" pada kolom App Mode</h5>
+> <h5>4. Aktifkan Allow Register dan Allow Check </h5>
+> <h5>5. Non Aktifkan Dev Mode dan isi Network interval dengan 20</h5>
+> <h5>6. Isi Screen Distance dengan 60 kemudian isi Check In Timer dengan 1</h5>
+> <h5>7. Isi URL Link, Person Data Source URL, Custom Face Recognition URL, Custom Face Register URL dengan link yang disediakan oleh developer</h5>
+> <h5>9. Jika telah mengisi semua dengan benar maka simpan</h5>
+
+
 > ### <h4>Bagaimana Cara Mendaftarkan Wajah?</h4>
 > <iframe src="https://drive.google.com/file/d/1hi5craOFiMPdOoO2snzv0HrOe1P430kl/preview" width="640" height="480" allow="autoplay"></iframe>
 

@@ -79,7 +79,7 @@
 
 # <h1>UPDATE</h1>
  ## <h3>Apa yang terjadi jika ada update aplikasi terbaru?</h3>
-><h4>1. Download Update terbaru dari link yang sudah disediakan oleh tim dev</h4>
+><h4>1. Download Update terbaru dari link yang sudah disediakan oleh tim dev (yang dibagikan oleh admin)</h4>
 ><h4>2. Install Aplikasi <i style="color: red;">(Tidak perlu uninstall aplikasi yang lama)</i></h4>
 ><h4>3. Jika Aplikasi meminta izin untuk mendapatkan lokasi perangkat maka aktifkan izin lokasi seperti dibawah :<b></h4>
 ><iframe src="https://drive.google.com/file/d/1vJzefI-gfbKmaRN6nMxOud_8IO1050k5/preview" width="640" height="480" allow="autoplay"></iframe>

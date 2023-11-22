@@ -1,52 +1,58 @@
 # <h1>FAQ</h1>
-><h2>Bagaimana cara Login Dashboard?</h2> 
+>## <h3>Bagaimana cara Login Dashboard?</h3> 
 ><h3> ➡️ Pastikan terlebih dahulu bahwa URL yang akan Anda buka benar. Setelah yakin, masukkan username dan kata sandi yang sesuai ke kolom login</h3>
 
-><h2>Apa itu License Code?</h2>
+>## <h3>Apa itu License Code?</h3>
 ><h3>➡️ License code adalah kode unik yang digunakan untuk mengaktifkan aplikasi di perangkat pengguna</h3>
 
-><h2>Bagaimana cara mendapatkan license code?</h2>
+>## <h3>Bagaimana cara mendapatkan license code?</h3>
 ><h3>➡️ Pastikan anda berada di ruang kerja Absensi, pada bagian App license klik License untuk ke menu License. Tambahkan license baru dengan menekan tombol + add FR License, isi kolom client name, lalu simpan. license kode Anda akan terbentuk setelah itu.</h3>
 
-><h2>Bagaimana cara mengganti nama License?</h2>
+>## <h3>Bagaimana cara mengganti nama License?</h3>
 ><h3>➡️ Pastikan anda berada di ruang kerja Absensi, pada bagian App license klik License untuk ke menu License, lalu pilih license yang ingin Anda ubah namanya. pada kolom client name anda dapat mengganti nama yang sudah ada dengan yang baru, jangan lupa untuk menyimpan perubahan.</h3>
 
-><h2>Apa itu Device ID?</h2>
+>## <h3>Apa itu Device ID?</h3>
 ><h3>➡️ Device ID adalah sebuah kode pengenal unik setiap perangkat user.</h3>
 
-><h2>Bagaimana Cara Mendapatkan Device ID</h2>
+>## <h3>Bagaimana Cara Mendapatkan Device ID</h3>
 ><h3>➡️ Device ID dapat diperoleh setelah pengguna mendaftar di aplikasi mobile dan memasukkan nama organisasi serta license code.</h3>
 
-><h2>Bagaimana cara mendaftarkan Device Id user di dashboard? </h2>
+>## <h3>Bagaimana cara mendaftarkan Device Id user di dashboard? </h3>
 ><h3>➡️ Pastikan anda berada di ruang kerja Absensi, pada bagian App license klik License untuk ke menu License, Pilih license yang ingin ditambahkan Device id nya, di tab license temukan kolom Device yang terdapat bagian tabel. Tekan add row di bagian bawah tabel, lalu masukkan device id. Jangan lupa untuk menyimpan perubahan setelah selesai.</h3>
 
-><h2>Bagaimana cara mengganti warna tombol di apps? </h2>
+>## <h3>Bagaimana cara mengganti warna tombol di apps? </h3>
 ><h3>➡️ Pastikan anda berada di ruang kerja Absensi, pada bagian App license klik License untuk ke menu License, lalu pilih license yang ingin diganti warna tombolnya. Masuk ke tab app theme, lalu rubah ke warna yang di ingin kan, jangan lupa untuk menyimpan perubahan</h3>
 
-><h2>Bagaimana cara mengganti logo di apps?</h2>
+>## <h3>Bagaimana cara mengganti logo di apps?</h3>
 ><h3>➡️ Pastikan anda berada di ruang kerja Absensi, pada bagian App license klik License untuk ke menu License, lalu pilih license yang ingin diganti Logo nya, masuk ke tab app theme, pada bagian kolom logo, tekan clear untuk menghapus logo yang lama, tekan attach dan masukan logo baru</h3>
 
-><h2>Bagaimana cara mengganti wallpaper di apps?</h2>
+>## <h3>Bagaimana cara mengganti wallpaper di apps?</h3>
 ><h3>➡️ Pastikan anda berada di ruang kerja Absensi, pada bagian App license klik License untuk ke menu License, lalu pilih license yang ingin diganti wallpapernya nya, masuk ke tab app theme, pada bagian kolom Background Image, tekan clear untuk menghapus wallpaper yang lama, tekan attach dan masukan wallpaper baru</h3>
 
-><h2>Bagaimana cara menambah data pegawai?</h2>
+>## <h3>Bagaimana cara menambah data pegawai?</h3>
 ><h3>➡️ Pastikan anda berada di ruang kerja absensi, Di bagian Master Data Employee, klik Employee data, Untuk menambah data karyawan, klik tombol + Add Employee dan isi data pegawai, Jangan lupa untuk menyimpan data yang telah diisi setelah selesai.</h3>
 
-><h2>Bagaimana cara cek user yang telah didaftarkan wajahnya?</h2>
+>## <h3>Bagaimana cara cek user yang telah didaftarkan wajahnya?</h3>
 ><h3>➡️ Pastikan anda berada di ruang kerja absensi, di bagian Master Data Employee, klik Data Wajah, lalu anda akan diarahkan ke menu Person yang berisikan data wajah yang telah didaftarkan</h3>
 
-><h2>Bagaimana cara check user yang telah absen?</h2>
+>## <h3>Bagaimana cara check user yang telah absen?</h3>
 ><h3>➡️ Pastikan anda berada di ruang kerja absensi, di bagian Log Data Absensi, klik Log absen, lalu anda akan diarahkan ke menu FR Log yang berisikan data user yang telah absen</h3>
 
 
-><h2>Bagaimana cara user absen? </h2>
+>## <h3>Bagaimana cara user absen? </h3>
 ><h3>➡️ Di halaman utama aplikasi seluler, pengguna dapat menekan tombol "Absen", yang kemudian akan mengarahkan ke halaman absensi. Di sana, pengguna dapat melakukan absensi dengan cara mengambil foto wajah dan menunggu verifikasi foto wajah.</h3>
 
-><h2>Apa yang terjadi jika ketika user absen muncul keterangan "Diluar radius Check In" ? </h2>
+>## <h3>Apa yang terjadi jika ketika user absen muncul keterangan "Diluar radius Check In" ? </h3>
 ><h3>➡️ Jika terbaca "Diluar radius Check In", itu berarti pengguna sedang di luar lokasi Check In. Jika pesan ini muncul saat pengguna berada di lokasi Check In, pengguna dapat menutup aplikasi, masuk kembali, dan mencoba absen lagi.</h3>
 
-><h2>Bagaimana cara mengganti wajah user yang telah terdaftar? </h2>
+>## <h3>Bagaimana cara mengganti wajah user yang telah terdaftar? </h3>
 ><h3>➡️ Pastikan anda berada di ruang kerja absensi, di bagian Master Data employee klik Data Wajah, Pilih data pengguna yang ingin diganti data wajahnya, lalu klik tombol hapus wajah di pojok kanan atas. Simpan perubahan, dan di aplikasi seluler, daftarkan kembali data wajah yang telah dihapus.</h3>
+
+>## <h3>Bagaimana cara melihat laporan absensi pegawai? </h3>
+><h3>➡️ Pastikan Anda berada di ruang kerja absensi, lalu klik pada bagian "Report" klik "Report Absensi". Selanjutnya, pilih rentang tanggal absensi dengan mengisi filter "Date Start" untuk menentukan data absensi mulai dari tanggal tertentu, dan filter "Date End" untuk menentukan hingga kapan rentang data absensi tersebut berakhir. </h3>
+
+>## <h3>Bagaimana cara melihat laporan belum absensi pegawai? </h3>
+><h3>➡️ Pastikan Anda berada di ruang kerja absensi, lalu pada bagian "Report" klik "Report Belum Absen". Selanjutnya, pilih rentang tanggal dengan mengisi filter "Date Start" untuk menentukan data belum absensi mulai dari tanggal tertentu, dan filter "Date End" untuk menentukan hingga kapan rentang data belum absensi. </h3>
 
 # <h1>TROUBLESHOOT</h1>
 

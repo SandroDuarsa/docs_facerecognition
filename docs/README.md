@@ -81,6 +81,10 @@
 > <h4>3. Daftarkan ulang device nya </h4>
 > <b><i ><h4 style="color: red;">*Perlu diingat admin harus mengapus device id user yang lama.</h4></i></b>
 
+> ## <h3>Apa yang terjadi ketika absen lalu muncul peringatan "Error : Not authorized to use background location services" ?</h3>
+> <h4> Hal tersebut bisa diatasi dengan mengaktifkan izin lokasi "Allow all The time" di pengaturan handphone dengan cara seperti di bawah ini </h4>
+> <iframe src="https://drive.google.com/file/d/16YJfarRJZqZ6qXqXXQ1F04yOUQY37XKP/preview" width="640" height="480" allow="autoplay"></iframe>
+
 #
 
 # <h1>UPDATE</h1>

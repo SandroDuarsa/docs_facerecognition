@@ -64,6 +64,7 @@
 
 > ## <h3>Apa yang harus dilakukan jika ketika absen lalu loading terjadi begitu lama?</h3>
 ><h4>➡️ Langkah pertama adalah memeriksa koneksi internet. Jika sudah terhubung internernet dengan baik, tutup aplikasi dan jalankan kembali.</h4>
+><h4>➡️ Jika Loading tetap berjalan lama, pastikan lokasi pada perangkat menyala lalu bisa dicoba lagi absen</h4>
 
 > ## <h3>Apa yang harus dilakukan jika user gagal absen? </h3>
 ><h4>➡️ Coba lagi dengan kondisi pencahayaan yang lebih baik hingga berhasil, tetapi pastikan wajah pengguna telah terdaftar sebelumnya.</h4>
